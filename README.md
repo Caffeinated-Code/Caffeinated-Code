@@ -20,8 +20,8 @@ I work across bulk and single-cell RNA-seq, CRISPR Perturb-seq, ATAC-seq, ChIP-s
 
 | Project | Summary |
 |---|---|
-| [FibroTarget-Liver](https://github.com/Caffeinated-Code/FibroTarget-Liver) | Built a reproducible single-cell liver fibrosis workflow to prioritize disease-relevant targets across public MASH/cirrhosis datasets, delivering ranked candidates, validation views, an executive report, Shiny dashboard, and Nextflow demo. |
-| [Mishra IL10 ATAC-seq Analysis](https://github.com/Caffeinated-Code/Mishra_IL10_ATACseq_DownstreaAnalysis) | Reanalyzed public IL10 ATAC-seq data to interpret chromatin-accessibility changes with reproducible reporting, connecting epigenomic signal to practical biological interpretation. |
+| [FibroTarget-Liver](https://github.com/Caffeinated-Code/FibroTarget_Liver) | Built a reproducible single-cell liver fibrosis workflow to prioritize disease-relevant targets across public MASH/cirrhosis datasets, delivering ranked candidates, validation views, an executive report, Shiny dashboard, and Nextflow demo. |
+| [Mishra IL10 ATAC-seq Analysis](https://github.com/Caffeinated-Code/Mishra_IL10_ATACseq_Downstream_Analysis) | Reanalyzed public IL10 ATAC-seq data to interpret chromatin-accessibility changes with reproducible reporting, connecting epigenomic signal to practical biological interpretation. |
 
 ## Credentials And Recognition
 
@@ -33,7 +33,7 @@ I work across bulk and single-cell RNA-seq, CRISPR Perturb-seq, ATAC-seq, ChIP-s
 
 ## Bioinformatics Field Guide
 
-I am building [Bioinformatics Field Guide](https://github.com/Caffeinated-Code/Bioinformatics-Field-Guide), a public resource for practical bioinformatics methods, reproducible analysis patterns, notebooks, and concise field guides for learners and working scientists.
+I am building [Bioinformatics Field Guide](https://github.com/Caffeinated-Code/Bioinformatics_Field_Guide), a public resource for practical bioinformatics methods, reproducible analysis patterns, notebooks, and concise field guides for learners and working scientists.
 
 ## Connect
 
